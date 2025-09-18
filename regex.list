@@ -1,37 +1,36 @@
-#  TO BE CREATED/TESTED
+adsys
+banner
+blob
+bug
+cookie
+dns
+ocsp
+sni
+stat
+#  TEST FILE TO BE CREATED AND STRINGS TO BE TESTED
 adim(age|g)s?
 adse?rv(er?|ice)?s?
-adsys
 adtr(a)?ck(er|ing)?
-advert(s|is(ing|ements?))?
+adv(e)?rt
 aff(iliat(es?|ion))
 an(a)?lyt(i)?c
 art(i)?f(a)?ct
-banner
-beacon
-blob
-bug
+b(ea)?con
 canar(y|ie(s)?)
 c(e)?ns[uy]s
 collect(er|or)?s?
-cookie
 [^(ac)]count(s|er)?
-dns
 ev(e)?nt
-firestore
 ing(e)?st
 inp(u)?t
 ins(i)?ght
 m(e)?(a)?s(u)?r(e)?
 m(e)?tr(i)?c(s)?
 m(o)?b(i)?l(e)?ad
-ocsp
 p(i)?x(e)?l
 r(e)?s(e)?(a)?rch
 s(e)?rv(e)?rn(a)?m
-sni
-stat(s|i[^c)])
-#  TEST FILES CREATED/STRINGS TESTED
+#  TEST FILES CREATED, STRINGS TESTED
 su?gg?e?s
 te?le?me?t?r?
 tra?ck
